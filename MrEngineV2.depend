@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1539593125 source:c:\users\kuba\desktop\mrendgine\v2\mrenginev2\main.cpp
+	"stdlib.h"
+	"stdio.h"
+	"MrEngine.h"
+
+1539554749 c:\users\kuba\desktop\mrendgine\v2\mrenginev2\mrengine.h
+
+1539591856 c:\users\kuba\desktop\mrendgine\v2\mrenginev2\matrix.h
+	"obj.h"
+
+1539554497 c:\users\kuba\desktop\mrendgine\v2\mrenginev2\obj.h
+
+1539594250 source:c:\users\kuba\desktop\mrendgine\v2\mrenginev2\matrix.cpp
+	"matrix.h"
+	"stdlib.h"
+	"stdio.h"
+	"math.h"
+
+1539594219 source:c:\users\kuba\desktop\mrendgine\v2\mrenginev2\mrengine.cpp
+	"MrEngine.h"
+	"graphics.h"
+	"obj.h"
+	"matrix.h"
+	"stdio.h"
+
+1539554037 source:c:\users\kuba\desktop\mrendgine\v2\mrenginev2\obj.cpp
+	<stdlib.h>
+	<stdio.h>
+	"obj.h"
+
